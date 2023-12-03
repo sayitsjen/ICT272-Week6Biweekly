@@ -1,0 +1,16 @@
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\bin\Debug\net5.0\BiweeklyReport4.exe
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\bin\Debug\net5.0\BiweeklyReport4.deps.json
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\bin\Debug\net5.0\BiweeklyReport4.runtimeconfig.json
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\bin\Debug\net5.0\BiweeklyReport4.runtimeconfig.dev.json
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\bin\Debug\net5.0\BiweeklyReport4.dll
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\bin\Debug\net5.0\ref\BiweeklyReport4.dll
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\bin\Debug\net5.0\BiweeklyReport4.pdb
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.csproj.AssemblyReference.cache
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.AssemblyInfoInputs.cache
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.AssemblyInfo.cs
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.csproj.CoreCompileInputs.cache
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.dll
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\ref\BiweeklyReport4.dll
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.pdb
+C:\Users\Jen\OneDrive\Documents\School\ICT272\Codes\BiweeklyReport4\BiweeklyReport4\obj\Debug\net5.0\BiweeklyReport4.genruntimeconfig.cache

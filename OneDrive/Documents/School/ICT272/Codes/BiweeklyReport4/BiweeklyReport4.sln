@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiweeklyReport4", "BiweeklyReport4\BiweeklyReport4.csproj", "{A3F7A3DF-3E2A-4BD8-8595-39BB655081D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F7A3DF-3E2A-4BD8-8595-39BB655081D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F7A3DF-3E2A-4BD8-8595-39BB655081D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F7A3DF-3E2A-4BD8-8595-39BB655081D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F7A3DF-3E2A-4BD8-8595-39BB655081D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24280199-1A48-42B4-B23D-3A970F13E970}
+	EndGlobalSection
+EndGlobal
