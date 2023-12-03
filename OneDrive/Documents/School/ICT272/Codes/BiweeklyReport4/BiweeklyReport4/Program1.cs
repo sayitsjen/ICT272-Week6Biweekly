@@ -4,8 +4,13 @@ using System.Collections.Generic;
 
 namespace SydneyHotel
 {
-    class Program
+    //Change 1
+    //renaming the Program class to Program1
+    class Program1
     {
+
+        //Change 2 - adding a comment
+        //This program has been uploaded to Git repository https://github.com/sayitsjen/ICT272-Week6Biweekly
         class ReservationDetail
         {
             public string customerName { get; set; }
